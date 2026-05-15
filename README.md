@@ -2,6 +2,8 @@
 
 A lightweight, always-on-top desktop task bar for managing your daily routines and habits. Built with Electron + React + TypeScript.
 
+English | [中文](./README_CN.md)
+
 ## Features
 
 - **Floating Task Bar** — Frameless, transparent, always-on-top window that sits on your desktop
